@@ -1,0 +1,61 @@
+body{
+    background-color: blueviolet
+}
+
+.container{
+    width: 500px;
+    margin: auto auto;
+    margin-top: 100px;
+    height: 400px;
+    background-color: azure;
+    border-radius: 10px;
+}
+h2{
+    color: darkblue;
+    text-align: center;
+}
+.span-div{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+span{
+    font-size: large;
+    color: blue;
+}
+#f1{
+    margin-left: 110px;
+    margin-right: 80px;
+}
+#f2{
+    margin-right: 60px;
+}
+input{
+    text-align: center;
+    width: 50px;
+    padding: 8px 20px;
+    margin-bottom: 50px;
+    margin-left: 20px;
+    border: 2px solid blue;
+}
+
+#day{
+    margin-left: 100px;
+}
+
+button{
+    padding: 10px 40px;
+    font-size: large;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    margin: 0 0 40px 200px
+}
+button:hover{
+    cursor: pointer;
+}
+
+#result{
+    text-align: center;
+    font-size: 20px;
+    color: darkblue;
+}
